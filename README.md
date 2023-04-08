@@ -1,4 +1,9 @@
 # go-reuse
+[![Go Report Card](https://goreportcard.com/badge/github.com/seymourtang/go-reuse)](https://goreportcard.com/report/github.com/seymourtang/go-reuse)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/seymourtang/go-reuse)
+[![Go Reference](https://pkg.go.dev/badge/github.com/seymourtang/go-reuse.svg)](https://pkg.go.dev/github.com/seymourtang/go-reuse)
+![GitHub](https://img.shields.io/github/license/seymourtang/go-reuse)
+
 
 Package go-reuse provides Listen functions that set socket options in order to be able to reuse ports on Windows,Linux and macOS platform.
 
